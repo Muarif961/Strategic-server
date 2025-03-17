@@ -1,1 +1,1 @@
-# Strategic-server
+# Strategic Server
